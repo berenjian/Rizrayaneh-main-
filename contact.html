@@ -1,0 +1,167 @@
+                                                                                                <!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="fa-IR"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="fa-IR"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="fa-IR"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="fa-IR"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+
+	<!-- Page title -->
+	<title>ریز رایانه | ارتباط با ما</title>
+
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+	<!-- Mobile viewport optimized: j.mp/bplateviewport -->
+	<meta name="viewport" content="width=520, maximum-scale=1.0">
+
+	<!-- CSS -->
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="favicon.png">
+
+	<!-- Modernizr / Respond -->
+	<script src="js/libs/modernizr-2.0.6.min.js"></script>
+</head>
+
+<body class="slideshow">
+
+	<div id="container">
+
+	<!-- Title -->
+<header class="title box auto">
+
+	<!-- Back -->
+	<a href="index.html" class="back">&nbsp;</a>
+
+	<!-- Title -->
+	<h1>تماس با ما</h1>
+
+</header>
+
+<!-- Map -->
+<section class="full box">
+	<script>
+		function showMap() {
+			marker_location = new google.maps.LatLng(36.357882, 59.5396182); // Set latitude and longitude for marker
+			var map = new google.maps.Map(document.getElementById('map'), {
+				zoom: 17,
+				center: marker_location,
+				mapTypeId: google.maps.MapTypeId.ROADMAP
+			});
+			var marker = new google.maps.Marker({
+				position: marker_location,
+				map: map
+			});
+		}
+	</script>
+	<div id="map" class="map"></div>
+</section>
+
+<!-- Article -->
+<section class="contact full box padding">
+
+	<!-- Sidebar -->
+	<aside class="right eq">
+		<ul class="contact_info meta">
+			<li class="location">مشهد، بزرگراه آزادی، بعد از سه</li>
+			<li class="no-bg">راه امام هادی(علیه السلام)، روبروی کارخانه</li>
+			<li class="no-bg">پپسی، ساختمان صدرا، طبقه 6،واحد 66</li>
+			<li class="phone">+98 513 657 7181</li>
+			<li class="email">info@rizrayaneh.com</li>
+		</ul>
+		<br>
+		<p class="social">
+			<a href="https://twitter.com/rizrayaneh"><img src="images/icons/twitter_16.png" alt=""></a>
+			<a href="https://www.facebook.com/rizrayanehtoos"><img src="images/icons/facebook_16.png" alt=""></a>
+			<a href="#"><img src="images/icons/flickr_16.png" alt=""></a>
+			<a href="https://www.linkedin.com/pub/rizrayaneh-toos"><img src="images/icons/linkedin_16.png" alt=""></a>
+		</p>
+	</aside>
+
+	<!-- Article -->
+	<article class="main eq contact-content">
+		<p>شرکت مهندسی ریز رایانه توس که در سال 1376 تاسیس گردیده با بهره گیری از تخصص و مهارت کارشناسان مجرب خود، افتخار دارد به منظور تعالی بخشیدن به صنعت کشور در چهارچوب ارائه خدمات مهندسی در زمینه های:<br />
+		سیستم های حفاظتی و امنیتی ( مبنی بر منطق دوربین های مدار بسته - نمایندگی رسمی - LG)<br />
+		سیستم ها ی شناسایی ( مبنی بر منطق RFID)<br />
+		ساختمان های هوشمند BMS<br />
+		بهینه سازی مصرف انرژی برق<br />
+		تجارب خود را در اختیار مدیران محترم ادارات ، صنایع و... کشور قرار دهد .<br />
+</p>
+	</article>
+
+</section>
+
+<!-- Contact form -->
+<section class="contact_form full box padding">
+	
+	<!-- Sidebar -->
+	<aside class="right eq">
+		<h2>ارسال ایمیل</h2>
+	</aside>
+
+	<!-- Form -->
+	<form action="#" class="main eq" id="contact_form">
+		
+
+		<div class="field_half">
+			<label>پست الکترونیکی</label>
+			<input type="email" name="email">
+		</div>
+		<div class="field_half">
+			<label>نام</label>
+			<input type="text" name="name">
+		</div>
+
+		<div class="field_full">
+			<label>متن پیام</label>
+			<div class="textarea"><textarea name="message" cols="30" rows="10"></textarea></div>
+		</div>
+
+		<div class="clearfix"></div>
+
+		<input type="submit" value="ارسال" class="submit">
+		<p class="status"></p>
+	</form>
+</section>  
+	
+		<div class="clearfix"></div>
+	</div>
+
+	<!-- jQuery -->
+	<script>window.jQuery || document.write('<script src="js/libs/jquery-1.6.2.min.js"><\/script>')</script>
+
+	<!-- Scripts -->
+	<script src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+	<script defer src="js/libs/supersized.3.2.6.min.js"></script>
+	<script defer src="js/libs/jquery.masonry.min.js"></script>
+	<script defer src="js/libs/jquery.fancybox-1.3.4.pack.js"></script>
+	<script defer src="js/script.js"></script>
+	
+<!-- Piwik --> 
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://a.1dws.com/" : "http://a.1dws.com/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 15);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://a.1dws.com/piwik.php?idsite=15" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tracking Code -->
+
+	<!-- Prompt IE 6 users to install Chrome Frame -->
+	<!--[if lt IE 7 ]>
+		<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+		<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+	<![endif]-->
+	
+</body>
+</html>
+
+                            
+                            
+                            
