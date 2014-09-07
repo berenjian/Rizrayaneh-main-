@@ -1,0 +1,12 @@
+Features
+H.264standard compression format with efficient processing and clear image
+Support 960H/D1/CIF recording encoding
+Two high-speed USB2.0 interfaces, you can mix backup and mouse
+Support six operations at the same time, recording, playback, network transmission, backup,
+mobile monitoring, PTZ control etc
+Support IE and client, remote parameter settings / convenient remote network access function
+without need to apply for any domain names, plug and play
+Dedicated high-reliability file system for special monitoring
+Simplified Persian, English, Thai, Russian, French, Spanish etc. over twenty languages
+A powerful mobile control and monitoring features to support Window Mobile, Symbian, Android,
+iPhone and Blackberry etc
