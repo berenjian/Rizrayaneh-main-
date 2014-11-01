@@ -1,0 +1,13 @@
+
+4CH CIF Real-time
+Digital Video Recorder
+LE1004
+
+    Small File Sizes by H.264 Compression
+    Up to 120fps@352 X 240 Recording
+    Default Mouse, IR Remote Controller
+    User-Friendly GUI
+    Various Monitor Output
+    Stable Embedded Linux Operating System
+    Multi-Languages Selectable
+

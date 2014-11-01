@@ -1,0 +1,14 @@
+
+1.3 Megapixel HD
+Network Dome Camera
+LND5100
+
+    2.8 ~ 10 mm Vari-focal Lens, F1.2
+    30 fps @ 1280 x 1024
+    H.264 (High Profile Supported) / MJPEG
+    Dynamic Profile (Up to 7)
+    Region Of Interest Streaming
+    Video Analytics Embedded
+    Micro SD Slot
+    Alarm In / Out ,Audio In / Out
+

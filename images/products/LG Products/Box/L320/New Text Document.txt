@@ -1,0 +1,13 @@
+
+620TVL ICR D&N Box Camera
+L320
+
+    6.0mm (1/3 Type) CCD
+    620 TV Lines
+    0.000001 Lux (B/W, Sens-up x128)
+    Digital Day & Night , Sens-up (3D-DNR)
+    EIS (Electronic Image Stabilization)
+    HSBLC (Highlight Suppress BLC)
+    Wide Range of White Balance
+    8 Privacy Zone Masking
+

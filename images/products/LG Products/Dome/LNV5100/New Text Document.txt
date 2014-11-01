@@ -1,0 +1,9 @@
+LNV5100
+
+    2.8 ~ 10mm Vari-focal Lens, F1.2
+    30 fps @ 1280 x 1024
+    H.264 (High Profile Supported) / MJPEG
+    Dynamic Profile (Up to 7)
+    Region Of Interest Streaming
+    Video Analytics Embedded
+    Micro SD Slot 

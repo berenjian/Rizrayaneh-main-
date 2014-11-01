@@ -1,0 +1,13 @@
+
+1ch H.264 VCA Embedded
+???? Video ???
+LVS311/LVS301
+
+    Real-time H.264 and MJPEG Compression (Dual-Codec)
+    30/25 fps(N/P) @ 4CIF
+    1ch. Video Input (CVBS)
+    Dual Output : RJ-45 / CVBS
+    Dynamic / Static / Private IP and DDNS Support
+    Video Analytics Embedded
+    1 Digital Input / 1 Relay Output
+    RS-422 / 485 interface for PTZ 

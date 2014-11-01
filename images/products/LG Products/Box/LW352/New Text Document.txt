@@ -1,0 +1,12 @@
+
+
+    20fps @ 2040 x 1536, 1280 x 1024
+    30fps @ 1920 x 1080, 1280 x 720
+    H.264, MJPEG
+    Video Analytics Embedded (LW355)
+    Auto Back Focus
+    Micro SD Slot
+    Alarm In / Out, Audio In / Out
+
+3 Megapixel Full HD
+Network Box Camera 
